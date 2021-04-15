@@ -1,2 +1,2 @@
 # XDemo
-Some demos
+Some demos for personal exercises.

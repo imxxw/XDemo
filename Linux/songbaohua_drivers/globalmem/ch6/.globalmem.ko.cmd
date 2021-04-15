@@ -1,0 +1,1 @@
+cmd_/home/VASTAI/kevinx/dev/c/linux_drivers/globalmem/ch6/globalmem.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/VASTAI/kevinx/dev/c/linux_drivers/globalmem/ch6/globalmem.ko /home/VASTAI/kevinx/dev/c/linux_drivers/globalmem/ch6/globalmem.o /home/VASTAI/kevinx/dev/c/linux_drivers/globalmem/ch6/globalmem.mod.o ;  true
